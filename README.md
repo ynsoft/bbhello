@@ -1,4 +1,3 @@
-bbhello
-=======
+#bbhello
 
-BeagleBone Hello World by C Language
+##A  Hello World by C Language
